@@ -1,4 +1,5 @@
 {
+  name = "hello",
   pname = "hello",
   version = "2.12.3",
   description = "Program that produces a familiar, friendly greeting",
